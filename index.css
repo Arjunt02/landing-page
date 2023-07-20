@@ -1,0 +1,12 @@
+.carousel-item{
+    position: relative;
+}
+
+.carousel-caption{
+    position: relative;
+}
+
+.carousel-caption h1{
+    margin-top: -500px;
+    margin-right: 200px;
+}
